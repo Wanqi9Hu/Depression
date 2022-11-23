@@ -23,8 +23,16 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 <img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/tfidf_flow.png" width="620" height="420">
 </div>
 
-* LSTM based on Word2Vec statistics ![lstm](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/word2vec%2Blstm_flow_new.png)
-* BERT ![Bert](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png)
+* LSTM based on Word2Vec statistics
+<div align=center>
+<img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/word2vec%2Blstm_flow_new.png" width="620" height="420">
+</div>
+
+* BERT
+<div align=center>
+<img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png" width="620" height="420">
+</div>
+
 
 ## Result
 
