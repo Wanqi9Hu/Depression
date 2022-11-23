@@ -30,7 +30,7 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 
 * BERT
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png" width="620" height="420">
+<img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png" width="620" height="670">
 </div>
 
 
