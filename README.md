@@ -24,6 +24,5 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 
 ## Result
 
-* Confusion matrix
-<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-3.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-4.png" width="180" height="105"/>
-* Receiver Operating Character Curve (ROC Curve)
+* Confusion matrix ![matrix](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/evaluation/confusion%20matrix.png)
+* Receiver Operating Character Curve (ROC Curve) ![curve](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/evaluation/ROC.png)
