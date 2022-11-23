@@ -16,3 +16,8 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 
 *Index Terms: Major depressive disorder, Twitter, Tf-Idf, Word2Vec, LSTM, BERT*
 
+## Flow of Model
+
+SVM/NB based on Tf-Idf statistics
+LSTM based on Word2Vec statistics
+BERT
