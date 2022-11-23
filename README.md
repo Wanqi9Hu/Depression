@@ -20,4 +20,4 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 
 * SVM/NB based on Tf-Idf statistics
 * LSTM based on Word2Vec statistics
-* BERT(https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png)
+* BERT ![Bert](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png)
