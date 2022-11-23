@@ -6,7 +6,7 @@
 ## Introduction
 
   Currently, Major depressive disorder (MDD) is among the most common mental illnesses. Individuals have resorted to expressing their emotional feelings on social media
-resulting in several depressive sentiment messages on Twitter. The paper analyses four models with natural language processing techniques for the detection of depressive tendency of tweets; these models include: 
+resulting in several depressive sentiment messages on Twitter. The project analyses four models with natural language processing techniques for the detection of depressive tendency of tweets; these models include: 
 * SVM with Tf-Idf statistics
 * Naive Bayes with Tf-Idf statistics
 * LSTM with word2Vec statistics
@@ -21,3 +21,9 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 * SVM/NB based on Tf-Idf statistics ![tfidf](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/tfidf_flow.png)
 * LSTM based on Word2Vec statistics ![lstm](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/word2vec%2Blstm_flow_new.png)
 * BERT ![Bert](https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/bert_flow.png)
+
+## Result
+
+* Confusion matrix
+<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-3.png" width="180" height="105"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-4.png" width="180" height="105"/>
+* Receiver Operating Character Curve (ROC Curve)
