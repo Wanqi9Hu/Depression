@@ -25,7 +25,7 @@ Over 16000 data are used for training the models, while over 4000 data consistin
 
 * LSTM based on Word2Vec statistics
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/word2vec%2Blstm_flow_new.png" width="620" height="420">
+<img src="https://github.com/Wanqi9Hu/Detection-of-Text-with-Depressive-Tendency-Based-on-Data-from-Twitter/blob/main/Flow/word2vec%2Blstm_flow_new.png" width="600" height="420">
 </div>
 
 * BERT
